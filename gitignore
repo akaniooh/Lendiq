@@ -5,7 +5,7 @@
 /.next/
 /out/
 
-# env files — these hold real secrets (CIRCLE_API_KEY etc.), never commit them
+
 .env
 .env.local
 .env.*.local
